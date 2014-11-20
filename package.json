@@ -1,6 +1,6 @@
 {
   "name": "cointx",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Crypto currency transactions.",
   "main": "./lib/cointx.js",
   "scripts": {
